@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR8.1it.char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA12CC-F8E7-4F41-881A-E1F14D52942A}|LR8.1it.char\\LR8.1it.char.vcxproj|C:\\Users\\hp\\source\\repos\\LR8.1it.char\\LR8.1it.char\\LR8.1it.char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6FA12CC-F8E7-4F41-881A-E1F14D52942A}|LR8.1it.char\\LR8.1it.char.vcxproj|solutionrelative:LR8.1it.char\\LR8.1it.char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR8.1it.char.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR8.1it.char\\LR8.1it.char\\LR8.1it.char.cpp",
+              "RelativeDocumentMoniker": "LR8.1it.char\\LR8.1it.char.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR8.1it.char\\LR8.1it.char\\LR8.1it.char.cpp",
+              "RelativeToolTip": "LR8.1it.char\\LR8.1it.char.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T12:47:13.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
